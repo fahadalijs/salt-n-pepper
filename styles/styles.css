@@ -1,0 +1,249 @@
+:root{
+    --red:#f42625;
+    --white:#ffffff;
+    --black:#000000;
+    --green:#28A745
+}
+/* navbar styling started */
+#navbar-items{
+    gap: 20px;
+}
+#navbar{
+    padding: 0px 10px;
+}
+#main-logo{
+    width: 165px;
+}
+.navlink{
+    text-decoration: none;
+}
+#frenchise{
+    background-color: transparent;
+    border: 1px solid var(--white);
+    padding: 15px 20px;
+    cursor: pointer;
+}
+#order-online{
+    background-color: var(--red);
+    border: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+/* navbar styling ended */
+
+/* welcome area styling started  */
+#heading{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 50px;
+    font-style:normal;
+    line-height: 70px;
+}
+#children-image{
+    gap: 30px;
+}
+#frenchise{
+    background-color: transparent;
+    padding: 15px 20px;
+    border: 1px solid var(--white);
+    cursor: pointer;
+}
+#order{
+    background-color: transparent;
+    padding: 15px 20px;
+    border: 1px solid var(--white);
+    cursor: pointer;
+}
+#reserve-btn{
+    background-color: transparent;
+    padding: 15px 20px;
+    border: 1px solid var(--white);
+    cursor: pointer;
+/* welcome area styling ended  */
+
+ /* salt'n pepper resturent franchises styling started */
+
+}
+#heading-2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-style: normal;
+    line-height: 40px;
+}
+#paragraph{
+    line-height: 30px;
+    word-spacing: 4px;
+}
+#paragraph-2{
+    line-height: 30px;
+    word-spacing: 1px;
+}
+#para-3{
+    color: var(--red);
+    letter-spacing: 8px;
+    
+}
+#Get-direction{
+    background-color: transparent;
+    padding: 15px 20px ;
+    border: 1px solid var(--white);
+}
+#heading-3{
+    font-family:monospace;
+    font-size: 25px;
+    line-height: 50px;
+    
+}
+#span-heading-3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+#para-4{
+    color: var(--red);
+    letter-spacing: 8px;
+}
+#span-heading-4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+#heading-4{
+    font-family:monospace;
+    font-size: 25px;
+    line-height: 50px;
+}
+#btn-2-Get-Direction{
+    background-color: transparent;
+    padding: 15px 20px ;
+    border: 1px solid var(--white);
+}
+#heading-5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 40px;
+    line-height: 60px;
+}
+#small-heading{
+    font-weight: 50px;
+
+}
+#para-5{
+    color: var(--red);
+    letter-spacing: 5px;
+}
+#btn-3-Get-Direction{
+    background-color:var(--green);
+    padding: 15px 20px ;
+    border: 1px solid var(--white);
+
+}
+/* express frenchises styling started */
+#express-frenchises{
+    background-color: var(--white);
+    width: 350px;
+    height: 220px;
+    padding: 25px 15px;
+}
+#express-frenchises-div-2{
+    background-color: var(--white);
+    width: 350px;
+    padding: 25px 15px;
+    height: 220px;
+     
+}
+#express-frenchises-div-3{
+    background-color: var(--white);
+    width: 350px;
+    height: 220px;
+    padding: 25px 15px;
+}
+#express-frenchises-div-4{
+    background-color: var(--white);
+    width: 350px;
+    height: 220px;
+    padding: 25px 15px;
+}
+ #express-frenchises-div-5{
+     background-color: var(--white);
+     width: 350px;
+    height: 220px;
+    padding: 25px 15px;
+}
+#express-frenchises-div-6{
+background-color: var(--white);
+width: 350px;
+height: 220px;
+padding: 25px 15px;
+}
+          
+#express-frenchises-div-7{
+background-color: var(--white);
+width: 350px;
+height: 220px;
+padding: 25px 15px;
+}
+#express-frenchises-div-8{
+background-color: var(--white);
+width: 350px;
+height: 220px;
+padding: 25px 15px;
+}
+#express-frenchises-div-9{
+background-color: var(--white);
+width: 350px;
+height: 220px;
+padding: 25px 15px;
+}
+#paragrapgh-express-frenchises{
+    color: var(--black);
+    line-height: 30px;
+}
+#paragrapgh-2-express-frenchises{
+    color: var(--black);
+    line-height: 30px;
+}
+#paragrapgh-3-express-frenchises{
+    color: var(--black);
+    line-height: 30px;
+}
+#paragrapgh-4-express-frenchises{
+    color: var(--black);
+    line-height: 30px;
+}
+#paragrapgh-5-express-frenchises{
+    color: var(--black);
+    line-height: 30px;
+}
+#paragrapgh-6-express-frenchises{
+    color: var(--black);
+    line-height: 30px;
+}
+#paragrapgh-7-express-frenchises{
+    color: var(--black);
+    line-height: 30px;
+}   
+#paragrapgh-8-express-frenchises{
+    color: var(--black);
+    line-height: 30px;
+}
+#paragrapgh-9-express-frenchises{
+    color: var(--black);
+    line-height: 30px;
+}
+/* express frenchises styling ended */
+
+/* footer styling started */
+#footer-logo{
+    width: 165px;
+}
+#footer-site-link{
+    line-height: 30px;
+    
+}
+#footer-contact-us{
+    line-height: 50px;
+}
+#footer-follow-us-btn-1{
+    background-color: transparent;
+    border: 1px solid var(--white);
+    padding: 15px 15px;
+}
+/* footer styling ended */

@@ -1,0 +1,49 @@
+:root{
+    --red:#f42625;
+    --white:#ffffff;
+    --black:#000000;
+    --green:#28A745}
+/* navbar-styling-started */
+#navbar-items{
+    gap: 20px;
+}
+#navbar{
+    padding: 0px 10px;
+}
+#main-logo{
+    width: 165px;
+}
+.navlink{
+    text-decoration: none;
+}
+#frenchise{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+#order-online{
+    background-color: var(--red);
+    border: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+/* navbar-styling-ended */
+
+/* footer styling started */
+#footer-logo{
+    width: 165px;
+}
+#footer-site-link{
+    line-height: 30px;
+    
+}
+#footer-contact-us{
+    line-height: 50px;
+}
+#footer-follow-us-btn-1{
+    background-color: transparent;
+    border: 1px solid var(--white);
+    padding: 15px 15px;
+}
+/* footer styling ended */
