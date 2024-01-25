@@ -24,6 +24,9 @@
 .align-center{
     align-items: center;
 }
+.align-started{
+    align-items: start;
+}
 .align-between{
     align-items: space-between;
 }
@@ -126,6 +129,22 @@
 .ml-18{
     margin-left: 30px;
 }
+#m-19{
+    margin: 100px;
+
+}
+.mr-20{
+    margin-right: 400px;
+}
+.mr-21{
+    margin-right: 470px;
+}
+.mr-22{
+    margin-right: 430px;
+}
+.mr-23{
+    margin-right: 400px;
+}
 
 /* margin class ended */
 
@@ -148,5 +167,8 @@
 .footer-btn-1{
     border-radius: 10px;
 
+}
+.footer-gb{
+    background-color: #0e0707;
 }
 
