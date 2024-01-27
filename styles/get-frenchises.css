@@ -1,0 +1,126 @@
+:root{
+    --red:#f42625;
+    --white:#ffffff;
+    --black:#000000;
+    --green:#28A745
+}
+/* navbar styling started */
+#navbar-items{
+    gap: 20px;
+}
+#navbar{
+    padding: 0px 10px;
+}
+#main-logo{
+    width: 165px;
+}
+.navlink{
+    text-decoration: none;
+}
+#frenchise{
+    background-color: transparent;
+    border: 1px solid var(--white);
+    padding: 15px 20px;
+    cursor: pointer;
+}
+#order-online{
+    background-color: var(--red);
+    border: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+/* navbar styling ended */
+#first-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+#first-input{
+    padding:20px 30px 20px 30px;
+    height: 44px;
+    width: 500px;
+    color: var(--black);
+    
+}
+#second-input{
+    padding:20px 30px 20px 30px;
+    height: 44px;
+    width: 500px;
+    color: var(--black);
+    
+}
+#third-input{
+    padding:20px 30px 20px 30px;
+    height: 44px;
+    width: 500px;
+    color: var(--black);
+}
+#fourth-input{
+    padding:20px 30px 20px 30px;
+    height: 44px;
+    width: 500px;
+    color: var(--black);
+}
+#fifth-input{
+    padding:20px 30px 20px 30px;
+    height: 44px;
+    width: 500px;
+    color: var(--black);
+}
+
+    
+#sixth-input{
+    padding:20px 30px 20px 30px;
+    height: 44px;
+    width: 500px;
+    color: var(--black);
+}
+    
+#seventh-input{
+    padding:20px 30px 20px 30px;
+    height: 44px;
+    width: 500px;
+    color: var(--black);
+}    
+#input-8{
+    padding:20px 30px 20px 30px;
+    height: 44px;
+    width: 500px;
+    color: var(--black);
+}   
+#select-option-1{
+    color: black;
+} 
+#select-option-2{
+    color: black;
+} 
+
+#select-option-3{
+    color: black;
+} 
+#select-option-4{
+    color: black;
+} 
+
+#button{
+    background-color: #f42625;
+    padding:17px 18px;
+    width: 172px;
+    border: 0px;
+}
+    /* footer styling started */
+#footer-logo{
+    width: 165px;
+}
+#footer-site-link{
+    line-height: 30px;
+    
+}
+#footer-contact-us{
+    line-height: 50px;
+}
+#footer-follow-us-btn-1{
+    background-color: transparent;
+    border: 1px solid var(--white);
+    padding: 15px 15px;
+}
+/* footer styling ended */
